@@ -1,0 +1,23 @@
+                  UNI HOSPITAL          
+Phone : +91 987655432           Email : uni@hospital.com
+__________________________________________________________
+                   Patient Details             
+       Name : hritik      Age : 20     Sex : M    
+       Weight : 60        Address : Jalandhar
+       Phone : 6206180458          Date : 2023-04-10
+       Illness : Fever     Medical History : none
+__________________________________________________________
+About illness : Suffering From common cold and viral fever. Given Medicin is required to take. 
+
+Medicines Given :
+- Paracetamol 
+- Calpol 
+- Telmikind Am 
+
+Foods to Eat : 
+- Dal 
+- Roti 
+- Fruits 
+
+ Note : Take rest and avoid to eat cold foods. 
+            ~~~~ Get Well Soon ~~~~            
